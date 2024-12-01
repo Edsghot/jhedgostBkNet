@@ -1,6 +1,0 @@
-@appJhedgostBk_HostAddress = http://localhost:5286
-
-GET {{appJhedgostBk_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
