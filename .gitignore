@@ -1,6 +1,6 @@
 # Ignorar archivos y carpetas generadas por el compilador de .NET
-/appJhedgostBk/bin/
-/appJhedgostBk/obj/
+/AppJhedgostBk/bin/
+/AppJhedgostBk/obj/
 
 # Archivos y carpetas de configuración de Visual Studio
 .vs/
